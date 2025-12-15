@@ -2,7 +2,7 @@
 <img width="850" height="554" alt="Excel Vehicle Sales Dashboard" src="https://github.com/user-attachments/assets/18068576-4514-438e-8cdb-084479467aac" />
 
 ---
-This repository contains a comprehensive data visualization project focused on analyzing key customer demographics, income trends, and purchase behavior related to vehicle sales (specifically cars and bikes). The dashboard provides insights into how gender, occupation, commute distance, and age bracket correlate with purchasing decisions, serving as an executive summary for sales and marketing strategy.
+This is a comprehensive data visualization project focused on analyzing key customer demographics, income trends, and purchase behavior related to vehicle sales (specifically cars and bikes). The dashboard provides insights into how gender, occupation, commute distance, and age bracket correlate with purchasing decisions, serving as an executive summary for sales and marketing strategy.
 📊 Key Performance Indicators (KPIs) & Metrics
 The analysis relies on the following core metrics and KPIs:
  * Average Income per Purchase: Measured in USD.
